@@ -1,0 +1,220 @@
+.first-column {
+  text-align: center;
+  position: relative;
+  right: 210px;
+  bottom: 5px;
+}
+
+.second-column {
+  text-align: center;
+  width: 400px;
+  height: 600px;
+  position: relative;
+  left: 780px;
+  bottom: 610px;
+}
+.first-container {
+  text-align: center;
+  border-style: groove;
+  border-color: #c1bdbd;
+  border-width: thin;
+  width: 380px;
+  height: 410px;
+}
+
+.middle-container {
+  margin-top: 8px;
+  text-align: center;
+  border-style: groove;
+  border-color: #c1bdbd;
+  border-width: thin;
+  width: 380px;
+  height: 50px;
+}
+
+.bottom-container {
+  text-align: left;
+}
+
+.header {
+  font-family: 'Lobster Two', cursive;
+  font-size: 3.2rem;
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+.username {
+  width: 285px;
+  height: 28px;
+  margin-top: 30px;
+  font-size: 0.75rem;
+}
+
+.password {
+  width: 285px;
+  height: 28px;
+  margin-top: 5px;
+  font-size: 0.75rem;
+}
+
+.btn {
+  background: #2192FF;
+  background-image: -webkit-linear-gradient(top, #2192FF, #2192FF);
+  background-image: -moz-linear-gradient(top, #2192FF, #2192FF);
+  background-image: -ms-linear-gradient(top, #2192FF, #2192FF);
+  background-image: -o-linear-gradient(top, #2192FF, #2192FF);
+  background-image: linear-gradient(to bottom, #2192FF, #2192FF);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  position: relative;
+  top: 30px;
+  padding: 8px 117px 8px 117px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.horizontal {
+  margin-top: 65px;
+  height: 30px;
+}
+
+.hr1 {
+  width: 100px;
+  border-bottom-width: 0px;
+  position: relative;
+  right: 95px;
+
+}
+
+.yada {
+  font-weight: light;
+  color: #898989;
+  font-family: 'Noto Sans Lepcha', sans-serif;
+  font-size: 0.75rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  bottom: 22.5px;
+}
+
+.hr2 {
+  width: 100px;
+  position: relative;
+  left: 95px;
+  bottom: 44.5px;
+  border-bottom-width: 0px;
+}
+
+.face {
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+
+.facebook-png {
+  width: 20px;
+  height: 20px;
+}
+
+.face-link {
+  text-decoration: none;
+  position: relative;
+  left: 6px;
+  bottom: 4px;
+}
+
+.forget-password {
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  font-weight: light;
+  font-size: 0.8rem;
+  position: relative;
+  top: 18px;
+  color: #3C4048;
+}
+
+.kaydol-intro {
+  color: #54585f;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 100;
+  position: relative;
+  right: 23px;
+}
+
+.kaydol {
+  text-decoration: none;
+  font-weight: 700;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #2192FF;
+  position: relative;
+  bottom: 37px;
+  left: 64px;
+}
+
+.download-intro {
+  font-weight: light;
+  color: #666666;
+  margin-bottom: 0;
+  position: relative;
+  top: 12px;
+  left: 135px;
+}
+
+.play-store {
+  width: 150px;
+  height: 65px;
+  position: relative;
+  left: 60px;
+}
+
+.microsoft {
+  width: 120px;
+  height: 45px;
+  position: relative;
+  bottom: 10px;
+  left: 55px;
+}
+
+.sub-texts {
+  text-align: center;
+  height: 10px;
+}
+
+.footer-link {
+  font-family: Arial;
+  text-decoration: none;
+  color: #787c83;
+  font-size: 0.8rem;
+  margin-left: 10px;
+  position: relative;
+  bottom: 575px;
+}
+
+.last-sub-texts {
+  text-align: center;
+  height: 10px;
+}
+
+.last-footer-link {
+  font-family: Arial;
+  text-decoration: none;
+  color: #787c83;
+  font-size: 0.8rem;
+  margin-left: 20px;
+  position: relative;
+  bottom: 550px;
+}
+
+
